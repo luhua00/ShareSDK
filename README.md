@@ -1,8 +1,6 @@
 视频教程:[http://v.youku.com/v_show/id_XNTAyNjM5NDI0.html](http://v.youku.com/v_show/id_XNTAyNjM5NDI0.html)
 
-![image](http://www.sharesdk.cn/media/attached/sharesdk_1.png)
-![image](http://www.sharesdk.cn/media/attached/sharesdk_2.png)
-![image](http://www.sharesdk.cn/media/attached/sharesdk_3.png)
+![image](http://www.sharesdk.cn/media/attached/sharesdk.jpg)
 
 # Share集成指南
 
