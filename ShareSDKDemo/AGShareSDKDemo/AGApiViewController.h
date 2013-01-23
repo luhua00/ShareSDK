@@ -20,4 +20,4 @@
     ShareType _followType;
 }
 
-@end
+@end 
